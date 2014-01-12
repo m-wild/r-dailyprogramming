@@ -1,0 +1,18 @@
+input:
+e	v	r	i	o
+
+e	events (x2 for numLines)
+v	visitors (0 to v inclusive)
+r	rooms (0 to r inclusive)
+i	start time (min)
+o	end time (max)
+
+assign a room entrance event to as many visitors as possible
+print
+assign an exit event to each visitor
+print
+if (max visitors is reached before events) repeat untill required num events
+
+int visitors[i][2]	i = id, [][0] = room no, [][1] = time entered
+
+rand() % (max - min + 1) + min;
