@@ -1,5 +1,4 @@
 (Original [here](http://www.reddit.com/r/dailyprogrammer/comments/1hzq9y/071013_challenge_129_intermediate_ndimensional/).)
------
 
 (Intermediate): N-Dimensional Vectors
 ==========================================
