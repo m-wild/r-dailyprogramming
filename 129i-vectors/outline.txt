@@ -1,0 +1,16 @@
+n
+a x y z
+m
+l|n|d i
+
+n	lines of input
+a	dimension of vector
+xyz	coordinates (float)
+m	lines of input
+l	length | n	normalize | d	dot-product
+i	index of vector
+
+array of array of double
+index 1 = index
+index 2 = coordinates
+index2.length = num dimensions
