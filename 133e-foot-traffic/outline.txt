@@ -1,0 +1,12 @@
+id	room	i/o		time
+id		
+room 	array stores time room used
+i/o		add or subtract time
+time 	value to be added/subtracted
+
+1	5		in		10
+1	5		out		20
+
+roomtime[5] -= 10
+roomvis[5] += 1
+roomtime[5] += 20
