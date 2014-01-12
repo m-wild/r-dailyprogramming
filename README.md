@@ -1,4 +1,4 @@
 r-dailyprogramming
 ==================
 
-A collection of solutions to reddit.com/r/dailyprogramming challenges.
+A collection of solutions to [/r/dailyprogramming](http://reddit.com/r/dailyprogramming) challenges.
